@@ -1,20 +1,19 @@
-![LOGO](https://telegra.ph/file/971d56d2d2611e6c47d32.jpg)
-# Google Bot
+# Bot Google 
 Google Search Bot For Telegram Written With NodeJs
 Bot ini Bisa Searching Dengan Mudah Dan Cepat
 # FrameWork
 [`Telegraf`](https://github.com/telegraf/telegraf)
 
 # Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RioProjectX/GoogleBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fjgaming212/BotGoogle.git)
 
 # Replit
 
-[![replit deploy](https://replit.com/badge/github/RioProjectX/GoogleBot)](https://repl.it/github/RioProjectX/GoogleBot)
+[![replit deploy](https://replit.com/badge/github/fjgaming212/BotGoogle)](https://repl.it/github/fjgaming212/BotGoogle)
 
-# Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRioProjectX%2FGoogleBot&envs=token&tokenDesc=bot+token+mu)
 
 # Credit
-* [Dev](t.me/riio00)
+*[Dev](t.me/FJ_GAMING)
+# Thanks
+* [Rio](t.me/riio00)
 * Nezuko 

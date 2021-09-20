@@ -13,6 +13,6 @@ Bot Google Search Untuk Telegram Ditulis Dengan Bot NodeJs ini Bisa Mencari Deng
 
 # Credit
 *[Dev](t.me/FJ_GAMING)
-# Thanks
+# Spesial Thanks
 * [Rio](t.me/riio00)
 * Nezuko 

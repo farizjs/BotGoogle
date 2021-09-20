@@ -1,6 +1,5 @@
 # Bot Google 
-Google Search Bot For Telegram Written With NodeJs
-Bot ini Bisa Searching Dengan Mudah Dan Cepat
+Bot Google Search Untuk Telegram Ditulis Dengan Bot NodeJs ini Bisa Mencari Dengan Mudah Dan Cepat
 # FrameWork
 [`Telegraf`](https://github.com/telegraf/telegraf)
 

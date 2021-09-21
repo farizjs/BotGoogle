@@ -1,3 +1,4 @@
+InlineKeyboardButton( "👑Developer", url="https://t.me/FJ_GAMING")
 const { Telegraf } = require("telegraf");
 const axios = require('axios')
 

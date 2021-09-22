@@ -4,7 +4,8 @@ const axios = require('axios')
 const n = new Telegraf(process.env.token)
 
 n.command('start', (ctx) => {
-  ctx.reply ('Hai '+ctx.from.first_name+' Saya Adalah Bot Google Bisa Mencari Dengan Mudah Dan Cepat , Saya Di Buat Oleh @FJ_GAMING ,Silahkan Ketik Kata Yang Mau Kamu Cari https://telegra.ph/file/8d33213f939bacf0f3edf.jpg')
+  ctx.reply ('Hai '+ctx.from.first_name+' Saya Adalah Bot Google Bisa Mencari Dengan Mudah Dan Cepat , Saya Di Buat Oleh @FJ_GAMING ,Silahkan Ketik Kata Yang Mau Kamu Cari 
+https://telegra.ph/file/8d33213f939bacf0f3edf.jpg')
 
 n.on('message', (ctx) => { `  `
     let input = ctx.message.text;

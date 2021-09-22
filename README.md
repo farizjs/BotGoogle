@@ -1,5 +1,8 @@
 # Bot Google 
+![LOGO](https://telegra.ph/file/8d33213f939bacf0f3edf.jpg)
+
 Bot Google Search Untuk Telegram Ditulis Dengan Bot NodeJs ini Bisa Mencari Dengan Mudah Dan Cepat
+
 # FrameWork
 [`Telegraf`](https://github.com/telegraf/telegraf)
 
